@@ -1,0 +1,38 @@
+html, body {
+    background-color: #464646;
+}
+
+#test1 {
+    background-color: red;
+}
+#test2 {
+    background-color: blue;
+}
+#test3 {
+    background-color: green;
+}
+
+#canvasWrapper
+{
+    text-align: center;
+}
+
+#drawCanvas
+{
+    width: 100%;
+}
+
+#setup {
+    color: antiquewhite;
+    margin: 20px;
+    padding: 20px;
+    border-radius: 10px;
+    background-color: #4848b3;
+}
+
+#heading
+{
+    padding-top: 0px;
+    padding-bottom: 0px;
+    min-width: 500px;
+}
